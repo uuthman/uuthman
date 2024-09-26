@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **any flutter open source project**
+- 👯 I’m looking to collaborate on **any open source project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/uuthman](https://github.com/uuthman)
 
 - 📝 I regularly write articles on [https://github.com/uuthman/AWS-Projects](https://github.com/uuthman/AWS-Projects)
 
-- 💬 Ask me about **Flutter, Dart, Android, Kotlin, Cloud Computing**
+- 💬 Ask me about **Flutter, Dart, Android, Kotlin,PHP, Javascript, Cloud Computing**
 
 - 📫 How to reach me **uthmanayinde6@gmail.com**
 
