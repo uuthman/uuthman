@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uthman Ayinde</h1>
-<h3 align="center">A passionate cross-platform Mobile Developer and also a cloud enthusiastd ethusiast</h3>
+<h3 align="center">A passionate Software Developer and also a cloud enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uuthman" alt="uuthman" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://github.com/uuthman/AWS-Projects](https://github.com/uuthman/AWS-Projects)
 
-- 💬 Ask me about **Flutter, Dart, Android, Kotlin,PHP, Javascript, Cloud Computing**
+- 💬 Ask me about **Flutter, Dart, Android, Kotlin, PHP, Laravel, Java, Javascript, Cloud Computing**
 
 - 📫 How to reach me **uthmanayinde6@gmail.com**
 
